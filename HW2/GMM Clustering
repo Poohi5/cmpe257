@@ -1,0 +1,4 @@
+GMM Clustering and Comparison with K-Means Clustering.
+
+The Kmeans clustering and GMM clustering showed same cluster plots for the Air Pollution Dataset.
+The AQI index was calculated for the Dataset's PM25 and PM10 value and plotted against 'o3' and 'so2' values using Sklearn's KMeans and GMM model.
